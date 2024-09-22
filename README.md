@@ -1,2 +1,2 @@
-# Quality-Time-
+# Quality-Time
 TCC do SENAI
