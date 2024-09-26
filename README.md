@@ -1,9 +1,3 @@
-# Site-Responsivo-Azul-e-Verde-HTML5-CSS3-JS
-TCC do SENAI dos guri
-
-FALTAS A SANAR:
-
--CARROUSSEL DO INICIO COM AS TAREFAS URGENTES
--BD COM AS TAREFAS 
--CALENDARIO
--TAREFAS
+# TCC do SENAI dos guri
+Desenvolvido pelo grupo: Amanda, Henrique, Analicy, Bruno.
+Iremos para sempre lembrar do trabalho em equipe e os conhecimentos aprendidos!!!
